@@ -180,3 +180,65 @@
 //   return son;
 // }
 // console.log(number());
+
+// 20
+// function num() {
+//   for (let i = 0; i <= a; i++) {
+//     console.log(i);
+//   }
+// }
+// let a = prompt("Son kiriting");
+// console.log(num(a));
+
+// 21
+// function numbers(tovuq, qoy, sigir) {
+//   let tuvuqOyogi = tovuq * 2;
+//   let qoyOyoqlari = qoy * 4;
+//   let sigirOyoqlari = sigir * 4;
+
+//   return tuvuqOyogi + qoyOyoqlari + sigirOyoqlari;
+// }
+// console.log(numbers(10, 20, 24));
+
+// 22
+// function ifoda(i1, i2) {
+//   i1 = prompt("True or False");
+//   i2 = prompt("True or False");
+
+//   return i1 && i2;
+// }
+// console.log(ifoda());
+
+// 23
+// function num() {
+//   let a = parseInt(prompt("Son kiriting"));
+//   let b = parseInt(prompt("Son kiriting"));
+
+//   if (a == b) {
+//     console.log("True");
+//   } else {
+//     console.log("False");
+//   }
+// }
+// console.log(num());
+
+// 24
+// function achko() {
+//   let a = prompt("Necha marotaba yutilaring");
+//   let b = prompt("Necha marotaba durrang bo'ldi");
+//   let c = prompt("Necha marotaba yutqizdilaring");
+
+//   return a * 3 + b * 1 + c * 0;
+// }
+// console.log(achko());
+
+// 25
+// function sekund() {
+//   let s = prompt("Soat kiriting");
+//   let m = prompt("Minut kiriting");
+//   let num = s * 60 * 60;
+//   let num1 = m * 60;
+
+//   return num + num1;
+// }
+// console.log(sekund());
